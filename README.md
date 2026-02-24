@@ -1,2 +1,2 @@
 # AI-Agents
-## It is the Interactive chatbot which is an AI Assistent integrated with the API keys
+## It is the Interactive chatbot which is an AI Assistent integrated with the API keys from github models.
